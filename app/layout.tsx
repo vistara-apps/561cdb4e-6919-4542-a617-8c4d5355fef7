@@ -3,8 +3,8 @@ import './globals.css'
 import { ThemeProvider } from './components/ThemeProvider'
 
 export const metadata: Metadata = {
-  title: 'Base Mini App',
-  description: 'Built with Zara',
+  title: 'FairGazer - Win Digital Treasures with Blockchain Fairness',
+  description: 'FairGazer brings provably fair draws to digital goods. Win NFTs, gift cards, and gaming items through transparent, decentralized draws on Base.',
 }
 
 export default function RootLayout({
