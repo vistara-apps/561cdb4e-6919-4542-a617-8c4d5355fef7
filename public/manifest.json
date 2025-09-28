@@ -1,0 +1,14 @@
+{
+  "name": "FairGazer",
+  "description": "FairGazer is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://561cdb4e-6919-4542-a617-8c4d5355fef7.vercel.app",
+  "properties": {
+    "app": {
+      "name": "FairGazer",
+      "description": "FairGazer is a Base Mini App built with Zara.",
+      "url": "https://561cdb4e-6919-4542-a617-8c4d5355fef7.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

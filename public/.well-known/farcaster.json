@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "FairGazer",
+    "subtitle": "Built with Zara",
+    "description": "FairGazer is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://561cdb4e69194542a6178c4d5355fef7-5kf8.vercel.app",
+    "splashImageUrl": "https://561cdb4e69194542a6178c4d5355fef7-5kf8.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://561cdb4e69194542a6178c4d5355fef7-5kf8.vercel.app/image.png",
+    "tagline": "FairGazer",
+    "screenshotUrls": [
+      "https://561cdb4e69194542a6178c4d5355fef7-5kf8.vercel.app/screenshot.png",
+      "https://561cdb4e69194542a6178c4d5355fef7-5kf8.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://561cdb4e69194542a6178c4d5355fef7-5kf8.vercel.app/api/webhook"
+  }
+}
